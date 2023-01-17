@@ -3,91 +3,83 @@
  }
 
  .white1 {
-    width: 150px;
+    width: 450px;
+    height:450px;
     background-color: white;
-    margin-left: auto;
-    padding: 250px; 
-    top: 1%;
+    position: absolute;
+    top: 4px;
+    right:215px;
    border:15px groove black ;
-   postion: absolute; 
+    
 }  
 
 
 .red {
-    width: 150px;
+    width: 450px;
+    height: 450px;
     background-color: red;
-    margin-right: auto;
-    padding: 250px; 
     position: absolute;
-    right:50%;
-    top: 4%;
+    right: 680px;
+    top: 4px;
     border:15px groove black ;
 }
 
 .white2 {
-    width: 150px;
+    width: 450px;
+    height:450px;
     background-color: white;
-    margin-right: auto;
-    padding: 250px; 
     position: absolute;
-    right:50%;
-    top: 90%;
+    right:680px;
+    top: 469px;
     border:15px groove black ;
 }
 
 .white3 {
-    width: 15px;
+    width: 350px;
+    height: 350px;
     background-color: white;
-    margin-right: auto; 
-    padding: 200px; 
     position: absolute;
-    left: 49%;
-    top: 90%;
+    right: 315px;
+    top: 469px;
     border:15px groove black ;
 }
 
 .yellow {
-    width: 70px;
+    width: 167px;
+    height: 85px;
     background-color: yellow;
-    margin-right: auto; 
-    padding: 62px; 
     position: absolute;
-    left: 49%;
-    top: 150%;
+    right: 498px;
+    top: 832px;
     border:15px groove black ;
 }
 
 .darkb {
-    width: 132px;
+    width: 167px;
+    height: 85px;
     background-color: darkblue;
-    margin-right: auto; 
-    padding: 33px; 
     position: absolute;
-    left: 65%;
-    top: 159.5%;
+    right: 315px;
+    top: 834px;
     border:15px groove black ;
 }
 
 .blue {
-    width: 79px;
+    width: 85px;
+    height: 180px;
     background-color: lightseagreen;
-    margin-right: auto; 
-    padding: 70px; 
     position: absolute;
-    left: 81%;
-    top: 90%;
+    right: 215px;
+    top: 469px;
     border:15px groove black ;
-    height: 50px;
 }
 
 .white4 {
     width: 79px;
+    height: 270px;
     background-color: white;
-    margin-right: auto; 
-    padding: 70px; 
     position: absolute;
-    left: 81%;
-    top: 120%;
+    right: 215px;
+    top: 645px;
     border:15px groove black ;
-    height: 191px;
 }
