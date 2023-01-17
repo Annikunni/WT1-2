@@ -1,0 +1,93 @@
+ body {
+     background-color: black;
+ }
+
+ .white1 {
+    width: 150px;
+    background-color: white;
+    margin-left: auto;
+    padding: 250px; 
+    top: 1%;
+   border:15px groove black ;
+   postion: absolute; 
+}  
+
+
+.red {
+    width: 150px;
+    background-color: red;
+    margin-right: auto;
+    padding: 250px; 
+    position: absolute;
+    right:50%;
+    top: 4%;
+    border:15px groove black ;
+}
+
+.white2 {
+    width: 150px;
+    background-color: white;
+    margin-right: auto;
+    padding: 250px; 
+    position: absolute;
+    right:50%;
+    top: 90%;
+    border:15px groove black ;
+}
+
+.white3 {
+    width: 15px;
+    background-color: white;
+    margin-right: auto; 
+    padding: 200px; 
+    position: absolute;
+    left: 49%;
+    top: 90%;
+    border:15px groove black ;
+}
+
+.yellow {
+    width: 70px;
+    background-color: yellow;
+    margin-right: auto; 
+    padding: 62px; 
+    position: absolute;
+    left: 49%;
+    top: 150%;
+    border:15px groove black ;
+}
+
+.darkb {
+    width: 132px;
+    background-color: darkblue;
+    margin-right: auto; 
+    padding: 33px; 
+    position: absolute;
+    left: 65%;
+    top: 159.5%;
+    border:15px groove black ;
+}
+
+.blue {
+    width: 79px;
+    background-color: lightseagreen;
+    margin-right: auto; 
+    padding: 70px; 
+    position: absolute;
+    left: 81%;
+    top: 90%;
+    border:15px groove black ;
+    height: 50px;
+}
+
+.white4 {
+    width: 79px;
+    background-color: white;
+    margin-right: auto; 
+    padding: 70px; 
+    position: absolute;
+    left: 81%;
+    top: 120%;
+    border:15px groove black ;
+    height: 191px;
+}
